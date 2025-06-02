@@ -1,0 +1,40 @@
+# 🚗 Car Price Prediction
+
+This project uses machine learning to predict the selling price of used cars based on features such as year, present price, kilometers driven, fuel type, seller type, transmission, and more.
+
+---
+
+## 📌 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Model Evaluation](#model-evaluation)
+- [License](#license)
+
+---
+
+## 📊 Project Overview
+
+The goal of this project is to build a regression model that can accurately estimate the price of a car using historical data. This can be used by customers and dealers to better understand car value and make informed decisions.
+
+---
+
+## 🧰 Tech Stack
+
+- Python 🐍
+- Pandas & NumPy (data handling)
+- Matplotlib & Seaborn (data visualization)
+- Scikit-learn (machine learning)
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/car-price-prediction.git
+cd car-price-prediction
